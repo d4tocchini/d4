@@ -1,2 +1,3 @@
-curl -LJO https://github.com/d4tocchini/d4/tarball/v0.0.0
-d4_unzip
+export  \
+    D4_VERSION="0.0.1"  \
+    D4_RELEASE_FORMAT="zip -p"
